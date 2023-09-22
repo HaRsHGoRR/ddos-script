@@ -14,10 +14,10 @@ To use UDP Flooder, follow these instructions:
    git clone https://github.com/your-username/your-repository-name.git
    ```
 2. Usage:
-```bash
-   python flood_udp.py <ip> <port> <duration>
+   ```bash
+      python flood_udp.py <ip> <port> <duration>
 
-```
+   ```
 
 Author
 Harsh
