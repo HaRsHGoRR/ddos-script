@@ -11,11 +11,11 @@ To use UDP Flooder, follow these instructions:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/HaRsHGoRR/ddos-script.git
    ```
 2. Usage:
    ```bash
-      python flood_udp.py <ip> <port> <duration>
+      python hi.py <ip> <port> <duration>
 
    ```
 
